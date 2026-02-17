@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Hi , I'm Fatma<br>👯 I'm Bandırma On Yedi Eylül University  in <br>the computer engineer student<br>
+🔭 Hi , I'm Fatma<br>👯 I'm graduated Bandırma On Yedi Eylül University  in <br>the computer engineer<br>I am backend developer
 
 
 ## 🌐 Socials:
